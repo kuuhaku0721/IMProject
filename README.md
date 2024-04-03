@@ -9,7 +9,6 @@
 
 客户端：`WTL`、`protobuf`、`ThreadPool`、`WindowsAPI`
 
-<<<<<<< HEAD
 服务端：`CMake`、`muduo`、`Reactor`、`epoll`、`socket`、`MySQL`、`ORM`
 
 ## 部署和使用方法
@@ -39,10 +38,3 @@
 ![image-20240403214835389](README.assets/image-20240403214835389.png)
 
 <center>[客户端登录]</center>
-=======
-
-这个Readme也没写.....
- 之后记得抽空写了  
- 没错，就最近  
- 嗯，最近
->>>>>>> e35f94bcbfb14cb3d13410d0e44ad07fe6f6a437
