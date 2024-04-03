@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CatchScreen", "CatchScreen\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EdoyunIMClient", "Source\EdoyunIMClient.vcxproj", "{8FDC31E9-4762-432C-BB7C-B3AF4CF496A2}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IMClient", "IMClient\IMClient.vdproj", "{8CA58E0A-9B6C-48B8-9C16-7A0F243F63CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +29,8 @@ Global
 		{8FDC31E9-4762-432C-BB7C-B3AF4CF496A2}.Debug|Win32.Build.0 = Debug|Win32
 		{8FDC31E9-4762-432C-BB7C-B3AF4CF496A2}.Release|Win32.ActiveCfg = Release|Win32
 		{8FDC31E9-4762-432C-BB7C-B3AF4CF496A2}.Release|Win32.Build.0 = Release|Win32
+		{8CA58E0A-9B6C-48B8-9C16-7A0F243F63CF}.Debug|Win32.ActiveCfg = Debug
+		{8CA58E0A-9B6C-48B8-9C16-7A0F243F63CF}.Release|Win32.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
